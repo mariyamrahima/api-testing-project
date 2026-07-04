@@ -18,9 +18,8 @@ Practice manual API testing fundamentals — writing test cases, executing reque
 - Response validation (status codes, expected fields)
 
 ## Files in this Repo
-- `Test_Case_Template.xlsx` — 10 test cases with steps, expected result, actual result, and pass/fail status
-- `Bug_Report_Template.xlsx` — documented bug found during testing
-- `JSONPlaceholder_API_Tests.postman_collection.json` — exported Postman collection with all requests used
+- `API Testing — JSONPlaceholder REST API.xlsx` — contains two sheets: **Test Case Template** (10 test cases with steps, expected result, actual result, and pass/fail status) and **Bug Report Template** (documented bug found during testing)
+- `JSONPlaceholder API Tests.postman_collection.json` — exported Postman collection with all requests used
 
 ## Summary of Results
 - **10 test cases executed**
